@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-*peel the avacados
+*peel the avacados and put one avacado into a bowl
